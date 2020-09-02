@@ -1,0 +1,27 @@
+[
+    {
+        "repository":   "device_xiaomi_trinket-common",
+        "target_path":  "device/xiaomi/trinket-common",
+        "branch":       "still_alive"
+    },
+    {
+        "repository":   "kernel_xiaomi_ginkgo",
+        "target_path":  "kernel/xiaomi/ginkgo",
+        "branch":       "still_alive"
+    },
+    {
+        "repository":   "vendor_xiaomi_ginkgo",
+        "target_path":  "vendor/xiaomi/ginkgo",
+        "branch":       "still_alive"
+    },
+    {
+        "repository":   "vendor_xiaomi_trinket-common",
+        "target_path":  "vendor/xiaomi/trinket-common",
+        "branch":       "still_alive"
+    },
+    {
+        "repository":   "vendor_miuicamera",
+        "target_path":  "vendor/miuicamera",
+        "branch":       "still_alive"
+    }
+]
